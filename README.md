@@ -9,6 +9,8 @@ Nujoom is an AI-powered sports analytics platform designed to analyze football m
 Because of GitHub's file size limits, the full project ZIP files are available here:
 
 - 📁 [Front & Back Ends + Model and Video](https://drive.google.com/drive/folders/1khSPeFxDvm0byeMXaESYS6t2Jjzzzu-k)
+- Nujoom.zip = Front End
+- sports-main.zip = Model and Backend
 ---
 
 🔍 For instructions on how to use the files, see below.
